@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 05b549bcd4ee64157aad00e74d549cc3
+timeCreated: 1476283257
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dagger
+    21300002: goblin/eyes-closed
+    21300004: goblin/head
+    21300006: goblin/left-arm
+    21300008: goblin/left-foot
+    21300010: goblin/left-hand
+    21300012: goblin/left-lower-leg
+    21300014: goblin/left-shoulder
+    21300016: goblin/left-upper-leg
+    21300018: goblin/neck
+    21300020: goblin/pelvis
+    21300022: goblin/right-arm
+    21300024: goblin/right-foot
+    21300026: goblin/right-hand
+    21300028: goblin/right-lower-leg
+    21300030: goblin/right-shoulder
+    21300032: goblin/right-upper-leg
+    21300034: goblin/torso
+    21300036: goblin/undie-straps
+    21300038: goblin/undies
+    21300040: goblingirl/eyes-closed
+    21300042: goblingirl/head
+    21300044: goblingirl/left-arm
+    21300046: goblingirl/left-foot
+    21300048: goblingirl/left-hand
+    21300050: goblingirl/left-lower-leg
+    21300052: goblingirl/left-shoulder
+    21300054: goblingirl/left-upper-leg
+    21300056: goblingirl/neck
+    21300058: goblingirl/pelvis
+    21300060: goblingirl/right-arm
+    21300062: goblingirl/right-foot
+    21300064: goblingirl/right-hand
+    21300066: goblingirl/right-lower-leg
+    21300068: goblingirl/right-shoulder
+    21300070: goblingirl/right-upper-leg
+    21300072: goblingirl/torso
+    21300074: goblingirl/undie-straps
+    21300076: goblingirl/undies
+    21300078: shield
+    21300080: spear
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dagger
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2
+        width: 108
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/eyes-closed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/head
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 26
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/left-arm
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 37
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/left-foot
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/left-hand
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 85
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/left-lower-leg
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/left-shoulder
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 40
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/left-upper-leg
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/neck
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 85
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/pelvis
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 40
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/right-arm
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 103
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/right-foot
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 37
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/right-hand
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 35
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/right-lower-leg
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/right-shoulder
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 86
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/right-upper-leg
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 37
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/torso
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 26
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/undie-straps
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 104
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblin/undies
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/eyes-closed
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 96
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/left-arm
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 35
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/left-foot
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 94
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/left-hand
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 86
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/left-lower-leg
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/left-shoulder
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 73
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/left-upper-leg
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/neck
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 85
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/pelvis
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 40
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/right-arm
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 30
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/right-foot
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 37
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/right-hand
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 72
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/right-lower-leg
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/right-shoulder
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 73
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/right-upper-leg
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 37
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/torso
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 30
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/undie-straps
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 96
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: goblingirl/undies
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 72
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shield
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spear
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 368
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
